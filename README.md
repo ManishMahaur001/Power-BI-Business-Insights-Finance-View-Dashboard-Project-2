@@ -1,5 +1,5 @@
 # Power-BI-Business-Insights-Finance-View-Dashboard-Project-2
-# 📊 Business Insights 360 – Finance View
+# 📊 Business Insights 360 – Finance View Project 2 
 
 ## 📌 Overview
 
